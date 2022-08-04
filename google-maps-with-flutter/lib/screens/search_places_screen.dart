@@ -11,7 +11,7 @@ class SearchPlacesScreen extends StatefulWidget {
   State<SearchPlacesScreen> createState() => _SearchPlacesScreenState();
 }
 
-const kGoogleApiKey = 'AIzaSyD3xXlbGsMd3u-lTK31OBm8xG6MHL6Rb8E';
+const kGoogleApiKey = '';
 final homeScaffoldKey = GlobalKey<ScaffoldState>();
 
 class _SearchPlacesScreenState extends State<SearchPlacesScreen> {
